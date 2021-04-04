@@ -1,1 +1,1 @@
-import GoodsList from "../goods-list";export default GoodsList;
+import GoodsItem from "../goods-list";export default GoodsItem;
