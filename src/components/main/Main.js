@@ -1,0 +1,1 @@
+import React from 'react';function Main() {  return (    <div className='container content'>      Hello    </div>  );};export default Main;
