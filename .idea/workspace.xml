@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85be447d-30ab-4ef2-8505-54bdc30ccc74" name="Default Changelist" comment="Create new project 'React Store'">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods-item/GoodsItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods-list/GoodsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/goods-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preloader/Preloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preloader/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/preloader" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -82,7 +80,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617539474314</updated>
-      <workItem from="1617539475393" duration="1247000" />
+      <workItem from="1617539475393" duration="1313000" />
+      <workItem from="1617541916708" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project 'React Store'">
       <created>1617539722773</created>
@@ -107,6 +106,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create new project 'React Store'" />
