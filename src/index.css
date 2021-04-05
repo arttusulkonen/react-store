@@ -53,3 +53,23 @@ nav {
 .cart-quantity{
 
 }
+
+.basket-list{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, .4);
+  width: 50rem;
+  max-width: 95%
+}
+.basket-close{
+  cursor: pointer;
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  color: #fff;
+}
+.basket-delete{
+  cursor: pointer;
+}
