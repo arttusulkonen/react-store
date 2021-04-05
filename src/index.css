@@ -48,6 +48,16 @@ nav {
     top: 5rem;
     bottom: unset;
   }
+  .toast-container{
+    top: 2.2rem;
+    bottom: unset;
+  }
+}
+
+.toast-container{
+  position: fixed;
+  right: 7rem;
+  bottom: 5rem;
 }
 
 .cart-quantity{

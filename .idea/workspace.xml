@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85be447d-30ab-4ef2-8505-54bdc30ccc74" name="Default Changelist" comment="add overlay">
+    <list default="true" id="85be447d-30ab-4ef2-8505-54bdc30ccc74" name="Default Changelist" comment="add increment and decrement to items in cart">
+      <change afterPath="$PROJECT_DIR$/src/components/alert/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/alert/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/basket-item/BasketItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basket-item/BasketItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/basket-list/BasketList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basket-list/BasketList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
@@ -35,10 +36,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -84,7 +88,8 @@
       <workItem from="1617541916708" duration="1514000" />
       <workItem from="1617551112183" duration="19000" />
       <workItem from="1617551142048" duration="4858000" />
-      <workItem from="1617612926602" duration="6752000" />
+      <workItem from="1617612926602" duration="6893000" />
+      <workItem from="1617630293137" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project 'React Store'">
       <created>1617539722773</created>
@@ -142,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617617184923</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add increment and decrement to items in cart">
+      <created>1617620010543</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617620010543</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +181,7 @@
     <MESSAGE value="Create basket-item and basket-list components. &#10;Add state isBasketShow" />
     <MESSAGE value="show in cart items and calc price" />
     <MESSAGE value="add overlay" />
-    <option name="LAST_COMMIT_MESSAGE" value="add overlay" />
+    <MESSAGE value="add increment and decrement to items in cart" />
+    <option name="LAST_COMMIT_MESSAGE" value="add increment and decrement to items in cart" />
   </component>
 </project>
