@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85be447d-30ab-4ef2-8505-54bdc30ccc74" name="Default Changelist" comment="add cart component, and cart icon">
+    <list default="true" id="85be447d-30ab-4ef2-8505-54bdc30ccc74" name="Default Changelist" comment="Create function addToBasket">
+      <change afterPath="$PROJECT_DIR$/src/components/basket-item/BasketItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basket-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basket-list/BasketList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basket-list/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/goods-item/GoodsItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods-item/GoodsItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/goods-list/GoodsList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/goods-list/GoodsList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart/Cart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +85,8 @@
       <workItem from="1617539475393" duration="1313000" />
       <workItem from="1617541916708" duration="1514000" />
       <workItem from="1617551112183" duration="19000" />
-      <workItem from="1617551142048" duration="4449000" />
+      <workItem from="1617551142048" duration="4858000" />
+      <workItem from="1617612926602" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project 'React Store'">
       <created>1617539722773</created>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617552575592</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create function addToBasket">
+      <created>1617556131788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617556131788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +146,7 @@
     <MESSAGE value="Create goods state. &#10;Get data and set into goods &#10;Create components [goods-item and goods-list]" />
     <MESSAGE value="get items and show into page" />
     <MESSAGE value="add cart component, and cart icon" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cart component, and cart icon" />
+    <MESSAGE value="Create function addToBasket" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create function addToBasket" />
   </component>
 </project>
